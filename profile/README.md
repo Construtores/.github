@@ -5,5 +5,7 @@
 - ### [Eric Viana](https://x.com/ericvma)
   - [Fros](https://fros.dev)
   - [Raunt](https://raunt.app)
+- ### [Claudson Oliveira](https://x.com/filhodanuvem)
+  - [Devgym](https://www.devgym.com.br/)
 - ### [Seu nome](https://x.com/seu_twitter)
   - [Seu projeto](https://seu.projeto)
